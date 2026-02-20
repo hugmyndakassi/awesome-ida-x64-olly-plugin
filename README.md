@@ -123,6 +123,7 @@ plugin.
 * [Official x64dbg plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins): Official repository of the x64dbg debugger plugins.
 * [x64dbgpy](https://github.com/x64dbg/x64dbgpy): Automating x64dbg using Python, Snapshots.
 * [Multiline Ultimate Assembler](https://ramensoftware.com/multimate-assembler): A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg. A perfect tool for modifying and extending a compiled executable functionality.
+* [x64dbg MCP Server](https://github.com/bromoket/x64dbg_mcp): MCP server giving AI assistants (Claude, Cursor, Windsurf) full control over x64dbg. 152 tools for debugging, disassembly, tracing, memory analysis, anti-debug bypass, and control flow graphs.
 
 ## OllyDBG Plugins
 * [OllyDumpEx](https://tuts4you.com/download/3451/): This plugin is process memory dumper for OllyDbg.
